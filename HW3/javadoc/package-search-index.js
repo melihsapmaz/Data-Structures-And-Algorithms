@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.GTU.InventorySystem.main"},{"l":"com.GTU.InventorySystem.model"},{"l":"com.GTU.InventorySystem.model.devices"},{"l":"com.GTU.InventorySystem.service"}];updateSearchResults();
